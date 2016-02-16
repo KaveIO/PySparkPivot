@@ -1,0 +1,7 @@
+*.pyc
+build/*
+*~
+#*#
+*#*#
+*-checkpoint.ipynb
+.ipynb_check*
